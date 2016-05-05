@@ -1,0 +1,4 @@
+C:\Users\Mantas Bacevicius\Desktop\UE4-CustomGravityPlugin-master 4.11\Source\CustomGravityProject\CustomGravityProject.Build.cs
+C:\Users\Mantas Bacevicius\Desktop\UE4-CustomGravityPlugin-master 4.11\Plugins\CustomGravityPlugin\Source\CustomGravityPlugin\CustomGravityPlugin.Build.cs
+C:\Users\Mantas Bacevicius\Desktop\UE4-CustomGravityPlugin-master 4.11\Source\CustomGravityProject.Target.cs
+C:\Users\Mantas Bacevicius\Desktop\UE4-CustomGravityPlugin-master 4.11\Source\CustomGravityProjectEditor.Target.cs

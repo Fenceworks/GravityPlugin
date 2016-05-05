@@ -1,0 +1,39 @@
+﻿Log file open, 05/05/16 15:21:45
+LogInit:Display: Running engine for game: CustomGravityProject
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(996285180) SRandInit(996285181).
+LogTaskGraph: Started task graph with 4 named threads and 5 total threads.
+LogStats: Stats thread started at 0.081860
+LogModuleManager:Warning: Found module file ../../../../../../Users/Mantas Bacevicius/Desktop/UE4-CustomGravityPlugin-master 4.11/Plugins/CustomGravityPlugin/Binaries/Win64/UE4Editor-CustomGravityPlugin.dll (API version 2758231), but it was incompatible with the current engine API version (2927265). This is likely a stale module that must be recompiled.
+LogInit:Warning: Incompatible or missing module: UE4Editor-CustomGravityProject.dll
+LogInit:Warning: Incompatible or missing module: UE4Editor-CustomGravityPlugin.dll
+LogExit: Preparing to exit.
+LogDerivedDataCache:Display: Max Cache Size: 512 MB
+LogDerivedDataCache: Loaded boot cache 0.11s 46MB C:/Users/Mantas Bacevicius/AppData/Local/UnrealEngine/4.11/DerivedDataCache/Boot.ddc.
+LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/Mantas Bacevicius/AppData/Local/UnrealEngine/4.11/DerivedDataCache/Boot.ddc
+LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Mantas Bacevicius/Desktop/UE4-CustomGravityPlugin-master 4.11/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Mantas Bacevicius/Desktop/UE4-CustomGravityPlugin-master 4.11/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+LogDerivedDataCache: Using Local data cache path C:/Users/Mantas Bacevicius/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+LogDerivedDataCache: Shutdown
+LogModuleManager: Shutting down and abandoning module CookingStats (16)
+LogModuleManager: Shutting down and abandoning module DerivedDataCache (15)
+LogDerivedDataCache: Shutdown
+LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+LogModuleManager: Shutting down and abandoning module Landscape (12)
+LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+LogModuleManager: Shutting down and abandoning module Renderer (7)
+LogModuleManager: Shutting down and abandoning module Engine (6)
+LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+LogModuleManager: Shutting down and abandoning module PakFile (1)
+LogExit: Exiting.
+Log file closed, 05/05/16 15:21:48
